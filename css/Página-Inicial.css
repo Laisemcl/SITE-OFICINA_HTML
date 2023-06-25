@@ -1,0 +1,282 @@
+.u-seção-1 .u-folha-1 {
+    altura mínima: 823px;
+  }
+  
+  .u-section-1 .u-layout-wrap-1 {
+    largura: 1140px;
+    margem: 0 auto 60px -11px;
+  }
+  
+  .u-seção-1 .u-layout-cell-1 {
+    altura mínima: 481px;
+  }
+  
+  .u-section-1 .u-container-layout-1 {
+    preenchimento: 0 0 30px;
+  }
+  
+  .u-seção-1 .u-texto-1 {
+    tamanho da fonte: 3,75 rem;
+    família da fonte: Candal;
+    margem: 0 30px 0 0;
+  }
+  
+  .u-seção-1 .u-linha-1 {
+    altura: 8px;
+    origem da transformação: centro esquerdo 0px;
+    largura: 570px;
+    margem: 20px auto 0 0;
+  }
+  
+  .u-seção-1 .u-texto-2 {
+    altura da linha: 1,8;
+    margem: 11px 24px 0 6px;
+  }
+  
+  .u-seção-1 .u-btn-1 {
+    imagem de fundo: nenhum;
+    tamanho da fonte: 1.125rem;
+    preenchimento: 0;
+  }
+  
+  .u-seção-1 .u-btn-2 {
+    imagem de fundo: nenhum;
+    tamanho da fonte: 1.125rem;
+    preenchimento: 0;
+  }
+  
+  .u-seção-1 .u-texto-3 {
+    margem: 49px auto 0 0;
+  }
+  
+  .u-seção-1 .u-btn-3 {
+    estilo de borda: sólido;
+    preenchimento: 0;
+  }
+  
+  .u-seção-1 .u-btn-4 {
+    peso da fonte: 700;
+    imagem de fundo: nenhum;
+    estilo de borda: nenhum;
+    margem: 30px auto 0 0;
+  }
+  
+  .u-seção-1 .u-imagem-1 {
+    altura mínima: 475px;
+    background-image: url("images/medium-shot-man-holding-wrench_23-2148258023.jpg");
+    posição de fundo: 50% 50%;
+  }
+  
+  .u-section-1 .u-container-layout-2 {
+    preenchimento: 30px;
+  }
+  
+  .u-seção-1 .u-imagem-2 {
+    altura mínima: 248px;
+    background-image: url("images/sd-min.jpg");
+    posição de fundo: 50% 50%;
+  }
+  
+  .u-section-1 .u-container-layout-3 {
+    preenchimento: 30px;
+  }
+  
+  .u-seção-1 .u-imagem-3 {
+    altura mínima: 248px;
+    background-image: url("images/mecanico-de-automoveis-usando-laptop-enquanto-executa-o-diagnostico-do-motor-na-oficina.jpg");
+    posição de fundo: 50% 50%;
+  }
+  
+  .u-section-1 .u-container-layout-4 {
+    preenchimento: 30px;
+  }
+  
+  @media (largura máxima: 1199px) {
+    .u-seção-1 .u-folha-1 {
+      altura mínima: 401px;
+    }
+  
+    .u-section-1 .u-layout-wrap-1 {
+      largura: 940px;
+      margem esquerda: 0;
+    }
+  
+    .u-seção-1 .u-layout-cell-1 {
+      altura mínima: 397px;
+    }
+  
+    .u-seção-1 .u-texto-1 {
+      margem direita: 0;
+    }
+  
+    .u-seção-1 .u-texto-2 {
+      margem direita: 0;
+      margem esquerda: 0;
+    }
+  
+    .u-seção-1 .u-imagem-1 {
+      altura mínima: 392px;
+    }
+  
+    .u-seção-1 .u-imagem-2 {
+      altura mínima: 204px;
+    }
+  
+    .u-seção-1 .u-imagem-3 {
+      altura mínima: 204px;
+    }
+  }
+  
+  @media (largura máxima: 991px) {
+    .u-seção-1 .u-folha-1 {
+      altura mínima: 307px;
+    }
+  
+    .u-section-1 .u-layout-wrap-1 {
+      largura: 720px;
+    }
+  
+    .u-seção-1 .u-layout-cell-1 {
+      altura mínima: 100px;
+    }
+  
+    .u-seção-1 .u-texto-1 {
+      tamanho da fonte: 2,8125 rem;
+    }
+  
+    .u-seção-1 .u-linha-1 {
+      largura: 480px;
+    }
+  
+    .u-seção-1 .u-imagem-1 {
+      altura mínima: 300px;
+    }
+  
+    .u-seção-1 .u-imagem-2 {
+      altura mínima: 156px;
+    }
+  
+    .u-seção-1 .u-imagem-3 {
+      altura mínima: 156px;
+    }
+  }
+  
+  @media (largura máxima: 767px) {
+    .u-seção-1 .u-folha-1 {
+      altura mínima: 230px;
+    }
+  
+    .u-section-1 .u-layout-wrap-1 {
+      largura: 540px;
+    }
+  
+    .u-seção-1 .u-imagem-1 {
+      altura mínima: 675px;
+    }
+  
+    .u-section-1 .u-container-layout-2 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .u-seção-1 .u-imagem-2 {
+      altura mínima: 234px;
+    }
+  
+    .u-section-1 .u-container-layout-3 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .u-seção-1 .u-imagem-3 {
+      altura mínima: 234px;
+    }
+  
+    .u-section-1 .u-container-layout-4 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+  
+  @media (largura máxima: 575px) {
+    .u-seção-1 .u-folha-1 {
+      altura mínima: 145px;
+    }
+  
+    .u-section-1 .u-layout-wrap-1 {
+      largura: 340px;
+    }
+  
+    .u-seção-1 .u-texto-1 {
+      tamanho da fonte: 1.875rem;
+    }
+  
+    .u-seção-1 .u-linha-1 {
+      largura: 340px;
+    }
+  
+    .u-seção-1 .u-imagem-1 {
+      altura mínima: 425px;
+    }
+  
+    .u-seção-1 .u-imagem-2 {
+      altura mínima: 147px;
+    }
+  
+    .u-seção-1 .u-imagem-3 {
+      altura mínima: 147px;
+    }
+  }.u-seção-2 .u-folha-1 {
+    altura mínima: 445px;
+  }
+  
+  .u-seção-2 .u-imagem-1 {
+    largura: 1129px;
+    altura: 373px;
+    box-shadow: 5px 5px 20px 0 rgba(0,0,0,0,4);
+    margem: 1px 0 60px automático;
+  }
+  
+  @media (largura máxima: 1199px) {
+    .u-seção-2 .u-folha-1 {
+      altura mínima: 383px;
+    }
+  
+    .u-seção-2 .u-imagem-1 {
+      largura: 940px;
+      altura: 311px;
+    }
+  }
+  
+  @media (largura máxima: 991px) {
+    .u-seção-2 .u-folha-1 {
+      altura mínima: 310px;
+    }
+  
+    .u-seção-2 .u-imagem-1 {
+      largura: 720px;
+      altura: 238px;
+    }
+  }
+  
+  @media (largura máxima: 767px) {
+    .u-seção-2 .u-folha-1 {
+      altura mínima: 251px;
+    }
+  
+    .u-seção-2 .u-imagem-1 {
+      largura: 540px;
+      altura: 179px;
+    }
+  }
+  
+  @media (largura máxima: 575px) {
+    .u-seção-2 .u-folha-1 {
+      altura mínima: 185px;
+    }
+  
+    .u-seção-2 .u-imagem-1 {
+      largura: 340px;
+      altura: 113px;
+    }
+  }
